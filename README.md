@@ -1,6 +1,6 @@
 ## Inspiration
 
-As an Aspiring designer, I spend much of my time in Figma, constantly exploring design ideas and searching for the perfect fonts, color palettes and vectors. This process, though exciting, is time-consuming. So, I thought—why not simplify it? I decided to create a Chrome extension that streamlines my workflow, making it easier and faster to bring my design concepts to life.
+As an Aspiring designer, I spend much of my time in Figma, constantly exploring design ideas and searching for the perfect fonts, color palettes and vectors. This process, though exciting, is time-consuming. So, I thought—why not simplify it? I decided to create DesignAir a Chrome extension that streamlines my workflow like the flow of Air, making it easier and faster to bring my design concepts to life.
 
 ## What it does  
 
@@ -49,6 +49,6 @@ One major challenge was that Gemini Nano’s output most of the time inaccuratel
 
 Throughout this project, we deepened our understanding of integrating APIs to enhance functionality, specifically with color accuracy and real-time data processing. We also learned the importance of user-centered design, refining features to make the tool intuitive and genuinely valuable for designers.
 
-## What's next for DesignWell
+## What's next for DesignAir
 
-Looking ahead, we aim to expand DesignWell with pattern and layout suggestions, enhanced font and icon customization, and smarter AI-driven design insights. By improving accessibility and adding more resources, we strive to make DesignWell an essential tool for every designer!
+Looking ahead, we aim to expand DesignAir with pattern and layout suggestions, enhanced font and icon customization, and smarter AI-driven design insights. By improving accessibility and adding more resources, we strive to make DesignAir an essential tool for every designer!
